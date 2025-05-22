@@ -93,7 +93,6 @@
 <div align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=TimurTolibov&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 
-
 </div>
 
 ###
