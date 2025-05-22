@@ -1,6 +1,6 @@
 
 <div align="start">
-  <h1> Front-End Developer | React & TypeScript</h1>
+  <h1> Front-End Developer | React & JavaScript</h1>
   <h2>Hi 👋, my name is Timur!</h2>
   
 
