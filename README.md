@@ -91,7 +91,7 @@
 ###
 
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=AzamatUzakov&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Timur Tolibov&show_icons=true&theme=dracula" height="150" alt="stats graph" />
 
 
 </div>
