@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/azamat-uzakov-6b4188348/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/18_.aza._1?igsh=czhuaW1lM2NvZ2Vw" target="_blank">
+    <a href="https://www.instagram.com/tima_t4011?igsh=czhuaW1lM2NvZ2Vw" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </div>
